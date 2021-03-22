@@ -1,0 +1,46 @@
+[{
+        "id":1, "name":"Emiliano Martínez","position":"Goalkeeper","salary":18000000, "image":"https://resources.premierleague.com/premierleague/photos/players/250x250/p98980.png", "age":28
+    },
+    {
+        "id":2, "name":"Esteban Andrada","position":"Goalkeeper","salary":8000000, "image":"https://cdn.staticneo.com/w/pes/thumb/e/e4/Andrada1_2020.jpg/205px-Andrada1_2020.jpg", "age":30
+    },
+    {
+        "id":3, "name":"Franco Armani","position":"Goalkeeper","salary":600000, "image":"https://playerswiki.com/uploads/biography/2018/06/26/franco-armani.jpg", "age":34
+    },
+    {
+        "id":4, "name":"Lucas Martínez","position":"Centre-Back","salary":100000, "image":"http://as00.epimg.net/img/comunes/fotos/fichas/deportistas/l/luc/large/31912.png", "age":24
+    },
+    {
+        "id":5, "name":"Facundo Medina","position":"Centre-Back","salary":"800000", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vZaPh0OaP4e6mZoTrfIiPWe5enj8Mi6eLA&usqp=CAU", "age":21
+    },
+    {
+        "id":6, "name":"Nicolás Otamendi","position":"Centre-Back","salary":800000, "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAWEUZ7gvNxOWR7tcx8B4EHynZq6Qe1Xcww&usqp=CAU", "age":33
+    },
+    {
+        "id":7, "name":"Wálter Kannemann","position":"Centre-Back","salary":450000, "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTTFHzhSNo3Qo4rcvBTMdVHMGLhw6kqZcDw&usqp=CAU", "age":29
+    },
+    {
+        "id":8, "name":"Nehuén Pérez","position":"Centre-Back","salary":450000, "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bWByVcLaILzO-3avGGJspk5ziC_LNwB-4g&usqp=CAU", "age":20
+    },
+    {
+        "id":9, "name":"Nicolás Tagliafico","position":"Left-Back","salary":2500000, "image":"https://i.ytimg.com/vi/H9REk2OSLPM/maxresdefault.jpg", "age":28
+    },
+    {
+        "id":10, "name":"Gonzalo Montiel","position":"Right-Back","salary":1250000, "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUheIn7kS1kh8ro5m_tSOOlEWo76FEWlqHg&usqp=CAU", "age":24
+    },
+    {
+        "id":11, "name":"Leandro Paredes","position":"Defensive Midfield","salary":2000000, "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETBNQ57LC_UpFE-4lJQEK7kPkQU9HJtgBGQ&usqp=CAU", "age":26
+    },
+    {
+        "id":12, "name":"Guido Rodríguez","position":"Defensive Midfield","salary":1500000, "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSLk9s_ZjZ4fDWr5VE_hZbVnOz_2rkM1NUA&usqp=CAU", "age":26
+    },
+    {
+        "id":13, "name":"Rodrigo de Paul","position":"Central Midfield","salary":3500000, "image":"https://images.daznservices.com/di/library/GOAL/22/7d/rodrigo-de-paul-udinese_grcz3zx19ujw12oxapkjv98x1.jpg?t=-1821339266&quality=60&w=1200&h=800", "age":26
+    },
+    {
+        "id":14, "name":"Giovani Lo Celso","position":"Central Midfield","salary":3500000, "image":"https://img.bleacherreport.net/img/images/photos/003/826/836/hi-res-14ff83c032155291bf36b38f3cf981f8_crop_north.jpg?1567763679&w=3072&h=2048", "age":24
+    },
+    {
+        "id":15, "name":"Lionel Messi","position":"Right Winger","salary":8000000, "image":"https://e0.365dm.com/20/09/768x432/skysports-lionel-messi-barcelona_5113303.jpg?20200929233110", "age":33
+    } 
+]

@@ -1,0 +1,7 @@
+.selected-player{
+    position: fixed;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: #4314ec; 
+}

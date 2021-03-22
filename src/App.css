@@ -1,0 +1,27 @@
+.App{
+  display: flex;
+}
+.players{
+ padding: 10px;
+  border-right: 2px solid lightgray;
+  width: 75%;
+}
+.player-card{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+  width: 100%;
+   text-align: center;
+    
+
+   
+ }
+ .player-card img{
+   width: 180px;
+   height: 250px;
+   border: 5px solid white;
+   border-radius: 50%;
+   background-color: turquoise;
+ }
+ .selectedPlayer{
+   width: 25%;
+ }
