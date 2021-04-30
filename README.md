@@ -1,8 +1,11 @@
-## Available Scripts
- ### `player`
-### `npm i`
-### `npm start`
+# assignment-7
+# Barcelona club
+
+### Features: 
+you can add any player in your team
+ 
+### Technology Used: 
+   Javascript (ES6), React, Bootstrap, rest API, html, css 
  
 
-# live site: https://select-player-for-team.netlify.app/
-### `https://github.com/Porgramming-Hero-web-course/simple-react-web-shoharab-pk`# assignment-7
+### live site: https://select-player-for-team.netlify.app/ 
